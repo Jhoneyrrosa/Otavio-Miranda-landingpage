@@ -38,7 +38,9 @@ h1 {
 }
 
 h2 {
-    font-size: 5.5rem;
+    font-size: 6rem;
+    margin-top: 80px;
+    text-transform: uppercase;
     
 }
 
